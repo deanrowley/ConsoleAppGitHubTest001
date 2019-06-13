@@ -10,8 +10,10 @@ namespace ConsoleAppGitHubTest001
     {
         static void Main(string[] args)
         {
-
+            // Just a hello world
             Console.WriteLine("Hello, World!");
+            Console.Write("Press a key to end");
+            Console.ReadKey();
         }
     }
 }
