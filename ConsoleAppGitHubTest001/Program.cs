@@ -10,6 +10,8 @@ namespace ConsoleAppGitHubTest001
     {
         static void Main(string[] args)
         {
+
+            //test
         }
     }
 }
